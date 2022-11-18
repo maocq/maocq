@@ -2,7 +2,7 @@
 
 <section>
   <h3>Talks 🎬</h3>  
-  <a href="[https://youtu.be/Zy0ayHq4K_k](https://youtu.be/tLgbd6liZrg)" target="_blank">
+  <a href="https://youtu.be/tLgbd6liZrg" target="_blank">
     <img alt="clean architecture elixir" src="https://i3.ytimg.com/vi/tLgbd6liZrg/maxresdefault.jpg" width="200">
   </a>
   <a href="https://youtu.be/Zy0ayHq4K_k" target="_blank">
