@@ -3,10 +3,10 @@
 <section>
   <h3>Talks 🎬</h3>  
   <a href="https://youtu.be/tLgbd6liZrg" target="_blank">
-    <img alt="clean architecture elixir" src="https://i3.ytimg.com/vi/tLgbd6liZrg/maxresdefault.jpg" width="200">
+    <img alt="clean architecture elixir" src="img/arquitectura-limpia-elixir.png" width="200">
   </a>
   <a href="https://youtu.be/Zy0ayHq4K_k" target="_blank">
-    <img alt="functional and reactive programing" src="https://i3.ytimg.com/vi/Zy0ayHq4K_k/maxresdefault.jpg" width="200">
+    <img alt="functional and reactive programing" src="img/functional-and-reactive-programing.png" width="200">
   </a>
   <br/>
   <a href="https://youtu.be/mVQJLorPCbk" target="_blank">
